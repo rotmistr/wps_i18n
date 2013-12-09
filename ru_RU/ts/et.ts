@@ -5,14 +5,14 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Выбор Ширины Столбца</translation>
     </message>
 </context>
 <context>
     <name>Constraint</name>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Ограничение</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
